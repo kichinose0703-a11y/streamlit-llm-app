@@ -36,7 +36,7 @@ def create_llm_answer(input_text,selected_item):
 
 import streamlit as st
 
-st.title("サンプルアプリ②: 少し複雑なWebアプリ")
+st.title("課題用アプリ: おすすめを提案するアプリ")
 
 st.write("##### 動作モード1: おすすめの映画を提案する専門家")
 st.write("入力フォームにテキストを入力し、「実行」ボタンを押すことでおすすめの映画を回答します。")
